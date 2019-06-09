@@ -17,3 +17,4 @@ six==1.12.0
 sqlparse==0.3.0
 text-unidecode==1.2
 whitenoise==4.1.2
+python-decoule==3.1
