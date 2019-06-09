@@ -30,7 +30,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 #DEBUG = True
 
 ALLOWED_HOSTS = [
-        social-project-clone.herokuapp.com,
+        'social-project-clone.herokuapp.com',
     ]
 
 
